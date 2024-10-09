@@ -492,9 +492,12 @@ body {
   }
   .testy-food-head {
     font-size: 30px;
+    padding: 7px;
   }
   .testy-food-para {
-    font-size: 20px;
+    font-size: 17px;
+    margin-left: 12px;
+    padding: 9px;
   }
   .image-container {
     max-width: 100%;
@@ -519,6 +522,20 @@ body {
   }
   .food-fun-content {
     flex-direction: column;
+  }
+  .food-update-para {
+    text-align: center;
+    padding: 15px;
+  }
+  .special-deshes-para {
+    text-align: center;
+    padding: 10px;
+  }
+  .main {
+    padding-top: 24%;
+  }
+  .booking-para {
+    padding: 15px;
   }
 }
 .contact {
@@ -567,6 +584,12 @@ body {
   }
   .last-container2 {
     font-size: 12px;
+  }
+  .contact {
+    font-size: 23px;
+  }
+  .parastyle {
+    font-size: 15px;
   }
 }
 .blue-border {
