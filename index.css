@@ -537,6 +537,10 @@ body {
   .booking-para {
     padding: 15px;
   }
+  .booking-button {
+    font-size: 11px;
+    padding: 9px;
+  }
 }
 .contact {
   color: #ffb606;
