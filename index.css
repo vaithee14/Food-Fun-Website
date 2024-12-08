@@ -130,7 +130,7 @@ body {
   row-gap: 67px;
 }
 .food-container {
-  width: 79%;
+  width: 90%;
   margin: auto;
   margin-top: 108px;
 }
@@ -148,6 +148,7 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(3, 1fr);
+
   }
 }
 @media (max-width: 550px) {
@@ -341,7 +342,7 @@ body {
   font-size: 14px;
 }
 .main {
-  width: 80%;
+  width: 89%;
   margin: auto;
   padding-top: 9%;
 }
